@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "a6afe0fdaf",
+      "kind": "craft",
+      "title": "Darkvision Elixir (Moderate) x20",
+      "owner": "Grul'k",
+      "status": "done",
+      "days_done": 20,
+      "notes": "",
+      "log": [
+        {
+          "date": "2026-10-08",
+          "text": "Started. DC 19, 1 day of setup, 110 gp in raw materials.",
+          "days": 0
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Success (26 vs DC 19). Raw materials worth 110 gp are used. Each extra day of work cuts what is left to pay (110 gp) by 6 gp.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 104 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 98 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 92 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 86 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 80 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 74 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 68 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 62 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 56 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 50 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 44 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 38 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 32 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 26 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 20 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 14 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 8 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. 2 gp still to pay.",
+          "days": 1
+        },
+        {
+          "date": "2026-10-08",
+          "text": "Worked 1 day. Finished.",
+          "days": 1
+        }
+      ],
+      "created": "2026-10-08",
+      "spent_cp": 11000,
+      "ruleset": "remaster",
+      "item": {
+        "name": "Darkvision Elixir (Moderate)",
+        "level": 4,
+        "price_gp": 11.0,
+        "rarity": "common",
+        "qty": 20
+      },
+      "crafter_level": 10,
+      "prof": "Master",
+      "has_formula": true,
+      "dc": 19,
+      "setup_days": 1,
+      "total_cp": 22000,
+      "upfront_cp": 11000,
+      "remaining_cp": 0,
+      "per_day_cp": 600,
+      "degree": "Success",
+      "ruin_cp": 1100
+    }
+  ],
+  "purses": {
+    "Grul'k": {
+      "cp": 0,
+      "log": []
+    }
+  },
+  "log": [
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Started crafting Darkvision Elixir (Moderate) x20"
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Success (26 vs DC 19). Raw materials worth 110 gp are used. Each extra day of work cuts what is left to pay (110 gp) by 6 gp. 110 gp taken from Grul'k's funds."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 104 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 98 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 92 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 86 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 80 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 74 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 68 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 62 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 56 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 50 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 44 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 38 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 32 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 26 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 20 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 14 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 8 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. 2 gp still to pay."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "Grul'k",
+      "text": "Darkvision Elixir (Moderate) x20: Worked 1 day. Finished."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "",
+      "text": "Event (Earn Income): The employer cannot pay this week, and offers a favor or a share of the goods instead."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "",
+      "text": "Event (Earn Income): A visitor from the dungeon end asks very thoughtful questions about the work"
+    },
+    {
+      "date": "2026-10-08",
+      "who": "",
+      "text": "Event (Earn Income): The PC returns one morning to find that someone has tampered with the day's work."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "",
+      "text": "Event (Craft): Overwhelming energy: the work is drawing or leaking a great deal of energy, and it has to go somewhere."
+    },
+    {
+      "date": "2026-10-08",
+      "who": "",
+      "text": "Event (Craft): Technical challenge: a difficult step needs a specialist, a tool the crafter does not have, or a leap of insight."
+    },
+    {
+      "date": "2026-10-09",
+      "who": "Grul'k",
+      "text": "Grul'k: undid 'Raw materials for Darkvision Elixir (Moderate) x20'."
+    }
+  ],
+  "settings": {
+    "ruleset": "remaster",
+    "event_chance": 25
+  }
+}

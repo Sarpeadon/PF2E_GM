@@ -1,0 +1,128 @@
+{
+  "party_size": 5,
+  "defaults_version": 2,
+  "include_starfinder": true,
+  "check_on_startup": true,
+  "elite_weak_variants": false,
+  "cohesion": "Prefer related creatures",
+  "hazard_mode": "Simple hazards",
+  "max_hazards": 1,
+  "game_systems": "Pathfinder",
+  "party_level": 10,
+  "hallowmead_offered": true,
+  "ancestry_weights": {
+    "Goblin": 20.0,
+    "Kobold": 18.0,
+    "Ratfolk": 12.0,
+    "Automaton": 10.0,
+    "Grippli": 9.0,
+    "Leshy": 7.0,
+    "Arboreal": 7.0,
+    "Poppet": 6.0,
+    "Awakened Animal": 6.0
+  },
+  "hallowmead_loaded": true,
+  "hallowmead_pack": true,
+  "hallowmead_rev": 2,
+  "story": {
+    "kind": "rumor",
+    "themes": [
+      "undead"
+    ],
+    "env": "underground",
+    "tone": "weird",
+    "scene": "travel",
+    "season": "any",
+    "focus": 60.0,
+    "use_campaign": 60.0,
+    "flavor": 35.0,
+    "count": 4,
+    "packs": [
+      "hallowmead",
+      "underground"
+    ],
+    "hallowmead_pack_seen": true,
+    "make_pages": true
+  },
+  "magic": {
+    "kind": "grimoire",
+    "level": 1,
+    "vary": 1,
+    "rarity": "rare",
+    "role": "auto",
+    "tradition": "any",
+    "focus": "any",
+    "themes": [
+      "ruin"
+    ],
+    "env": "urban",
+    "tone": "weird",
+    "abilities": "any",
+    "quirk": true,
+    "drawback": true,
+    "lore": true,
+    "hm": true,
+    "use_campaign": 50.0,
+    "culture": "goblin",
+    "flavor": 35.0,
+    "style": "standard",
+    "count": 8
+  },
+  "show_feat_text": true,
+  "import_as": "PC",
+  "inns": {
+    "kind": "Inn",
+    "quality": "Squalid",
+    "size": "Medium",
+    "busy": "Packed",
+    "env": "underground",
+    "tone": "weird",
+    "themes": [
+      "trade"
+    ],
+    "culture": "Goblin",
+    "level": 10,
+    "price_pct": 100,
+    "patrons": 30,
+    "staff": 10,
+    "stories": true,
+    "hm": true,
+    "flavor": 35.0,
+    "use_campaign": 50.0,
+    "count": 3,
+    "make_people": true,
+    "make_stories": false
+  },
+  "gm_tools": {
+    "afflictions": {
+      "type": "Any",
+      "severity": "Standard",
+      "count": 3,
+      "silly": "Ridiculous",
+      "flavor": "Hallowmead"
+    },
+    "salvage": {
+      "what": "Peddler's cart",
+      "haul": "Scraps",
+      "where": "",
+      "weird": "Maybe",
+      "wares": 10,
+      "silly": "Ridiculous",
+      "flavor": "Hallowmead"
+    },
+    "jobs": {
+      "where": "Finders Keep notice board",
+      "count": 6,
+      "silly": "Standard",
+      "flavor": "Hallowmead"
+    }
+  },
+  "spellgen": {
+    "kind": "Cantrip",
+    "rank": "1",
+    "tradition": "arcane",
+    "style": "Standard",
+    "shape": "any",
+    "count": 8
+  }
+}

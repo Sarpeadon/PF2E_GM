@@ -1,0 +1,51 @@
+{
+ "saved": {},
+ "tables": {},
+ "prefs": {
+  "jobs": {
+   "where": "",
+   "count": 6,
+   "level": 10,
+   "size": 5,
+   "silly": "Standard",
+   "flavor": "Hallowmead"
+  },
+  "afflictions": {
+   "type": "Any",
+   "severity": "Standard",
+   "level": 10,
+   "count": 3,
+   "silly": "Standard",
+   "flavor": "Hallowmead"
+  },
+  "hazards": {
+   "kind": "Any",
+   "complexity": "Any",
+   "setting": "Any",
+   "level": 10,
+   "offset": "0",
+   "silly": "Standard",
+   "flavor": "Hallowmead"
+  },
+  "quest": {
+   "faction": "",
+   "level": 10,
+   "size": 5,
+   "threat": "Moderate",
+   "length": "One-shot (3 scenes)",
+   "hazard": true,
+   "social": true,
+   "reward": "Maybe",
+   "silly": "Standard",
+   "flavor": "Hallowmead"
+  },
+  "recap": {
+   "title": "",
+   "number": 1,
+   "style": "Epic narrator",
+   "players": "",
+   "silly": "Standard",
+   "flavor": "Hallowmead"
+  }
+ }
+}

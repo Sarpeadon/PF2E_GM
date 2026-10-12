@@ -1,0 +1,1768 @@
+[
+  {
+    "id": "a3fc2a8d55",
+    "title": "Grul'k",
+    "type": "PC",
+    "status": "active",
+    "tags": [],
+    "body": "Heritage: Created Fleshwarp\nBackground: Eldritch Anatomist\nDeity: Not set",
+    "created": "2026-10-05",
+    "pc": {
+      "name": "Grul'k",
+      "level": 10,
+      "class": "Alchemist",
+      "ancestry": "Fleshwarp",
+      "heritage": "Created Fleshwarp",
+      "background": "Eldritch Anatomist",
+      "alignment": "N",
+      "size": "med",
+      "item_mods": {
+        "Fortitude": [
+          [
+            "Item Bonus",
+            1
+          ]
+        ],
+        "Reflex": [
+          [
+            "Item Bonus",
+            1
+          ]
+        ],
+        "Will": [
+          [
+            "Item Bonus",
+            1
+          ]
+        ]
+      },
+      "perception": 14,
+      "saves": {
+        "fortitude": 19,
+        "reflex": 18,
+        "will": 15
+      },
+      "skills": {
+        "Acrobatics": 3,
+        "Arcana": 17,
+        "Athletics": 3,
+        "Crafting": 17,
+        "Deception": 12,
+        "Diplomacy": 12,
+        "Intimidation": 12,
+        "Medicine": 16,
+        "Nature": 12,
+        "Occultism": 21,
+        "Performance": 0,
+        "Religion": 0,
+        "Society": 17,
+        "Stealth": 3,
+        "Survival": 12,
+        "Thievery": 3,
+        "Lore (Fleshwarp)": 17
+      },
+      "mods": {
+        "str": 3,
+        "dex": 3,
+        "con": 4,
+        "int": 5,
+        "wis": 0,
+        "cha": 0
+      },
+      "class_dc": 29,
+      "hp": 140,
+      "speed": 25,
+      "ac": 26,
+      "strikes": [
+        {
+          "name": "Alchemical Bomb",
+          "weapon": "Alchemical Bomb",
+          "bonus": "+17",
+          "damage": [],
+          "traits": [],
+          "effects": [],
+          "kind": "Melee",
+          "dtype": "",
+          "note": "Damage depends on the bomb used (see Formulas)",
+          "runes": [],
+          "pot": 0,
+          "mat": "",
+          "prof": "martial"
+        },
+        {
+          "name": "Thundermace (+3, striking, hooked)",
+          "weapon": "Thundermace",
+          "bonus": "+20",
+          "damage": [
+            "2d8+3 bludgeoning"
+          ],
+          "traits": [],
+          "effects": [],
+          "kind": "Melee",
+          "dtype": "bludgeoning",
+          "note": "",
+          "runes": [
+            "Hooked"
+          ],
+          "pot": 3,
+          "mat": "",
+          "prof": "simple"
+        },
+        {
+          "name": "Fist",
+          "weapon": "Fist",
+          "bonus": "+17",
+          "damage": [
+            "1d4+3 bludgeoning"
+          ],
+          "traits": [
+            "agile",
+            "finesse",
+            "nonlethal",
+            "unarmed"
+          ],
+          "effects": [],
+          "kind": "Melee",
+          "dtype": "bludgeoning",
+          "note": "",
+          "runes": [],
+          "pot": 0,
+          "mat": "",
+          "prof": "unarmed",
+          "unarmed": true
+        }
+      ],
+      "damage_types": [
+        "bludgeoning"
+      ],
+      "feats": [
+        {
+          "name": "Alchemical Crafting",
+          "choice": "",
+          "type": "Awarded Feat",
+          "level": 1,
+          "source": ""
+        },
+        {
+          "name": "Assurance",
+          "choice": "Medicine",
+          "type": "Awarded Feat",
+          "level": 1,
+          "source": ""
+        },
+        {
+          "name": "Created Fleshwarp",
+          "choice": "",
+          "type": "Heritage",
+          "level": 1,
+          "source": "Heritage Feat"
+        },
+        {
+          "name": "Alchemical Assessment",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 1,
+          "source": "Alchemist Feat 1"
+        },
+        {
+          "name": "Deepvision",
+          "choice": "",
+          "type": "Ancestry Feat",
+          "level": 1,
+          "source": "Fleshwarp Feat 1"
+        },
+        {
+          "name": "Battle Medicine",
+          "choice": "",
+          "type": "Skill Feat",
+          "level": 2,
+          "source": "Skill Feat 2"
+        },
+        {
+          "name": "Improvise Admixture",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 2,
+          "source": "Alchemist Feat 2"
+        },
+        {
+          "name": "Sanguimancer Dedication",
+          "choice": "",
+          "type": "Archetype Feat",
+          "level": 2,
+          "source": "Free Archetype 2"
+        },
+        {
+          "name": "Toughness",
+          "choice": "",
+          "type": "General Feat",
+          "level": 3,
+          "source": "General Feat 3"
+        },
+        {
+          "name": "Godless Healing",
+          "choice": "",
+          "type": "Skill Feat",
+          "level": 4,
+          "source": "Skill Feat 4"
+        },
+        {
+          "name": "Efficient Alchemy",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 4,
+          "source": "Alchemist Feat 4"
+        },
+        {
+          "name": "Blood Shield",
+          "choice": "",
+          "type": "Archetype Feat",
+          "level": 4,
+          "source": "Free Archetype 4"
+        },
+        {
+          "name": "Gaping Flesh",
+          "choice": "",
+          "type": "Ancestry Feat",
+          "level": 5,
+          "source": "Fleshwarp Feat 5"
+        },
+        {
+          "name": "Ward Medic",
+          "choice": "",
+          "type": "Skill Feat",
+          "level": 6,
+          "source": "Skill Feat 6"
+        },
+        {
+          "name": "Fortified Elixirs",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 6,
+          "source": "Alchemist Feat 6"
+        },
+        {
+          "name": "Exsanguinate",
+          "choice": "",
+          "type": "Archetype Feat",
+          "level": 6,
+          "source": "Free Archetype 6"
+        },
+        {
+          "name": "Robust Health",
+          "choice": "",
+          "type": "General Feat",
+          "level": 7,
+          "source": "General Feat 7"
+        },
+        {
+          "name": "Graft Technician",
+          "choice": "",
+          "type": "Skill Feat",
+          "level": 8,
+          "source": "Skill Feat 8"
+        },
+        {
+          "name": "Mutant Physique",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 8,
+          "source": "Alchemist Feat 8"
+        },
+        {
+          "name": "Transfusion",
+          "choice": "",
+          "type": "Archetype Feat",
+          "level": 8,
+          "source": "Free Archetype 8"
+        },
+        {
+          "name": "Embodied Dragoon Subjectivity",
+          "choice": "",
+          "type": "Ancestry Feat",
+          "level": 9,
+          "source": "Fleshwarp Feat 9"
+        },
+        {
+          "name": "Continual Recovery",
+          "choice": "",
+          "type": "Skill Feat",
+          "level": 10,
+          "source": "Skill Feat 10"
+        },
+        {
+          "name": "Unstable Concoction",
+          "choice": "",
+          "type": "Class Feat",
+          "level": 10,
+          "source": "Alchemist Feat 10"
+        },
+        {
+          "name": "Venipuncture",
+          "choice": "",
+          "type": "Archetype Feat",
+          "level": 10,
+          "source": "Free Archetype 10"
+        }
+      ],
+      "specials": [
+        "Alchemy",
+        "Formula Book",
+        "Advanced Alchemy",
+        "Versatile Vials",
+        "Quick Alchemy",
+        "Mutagenist",
+        "Formulas (Mutagenist)",
+        "Field Benefit (Mutagenist)",
+        "Field Vials (Mutagenist)",
+        "Unusual Anatomy",
+        "Field Discovery (Mutagenist)",
+        "Powerful Alchemy",
+        "Alchemical Weapon Expertise",
+        "Will Expertise",
+        "Alchemical Expertise",
+        "Double Brew",
+        "Perception Expertise"
+      ],
+      "senses": [
+        "Low-Light Vision",
+        "Darkvision"
+      ],
+      "equipment": [
+        {
+          "name": "Magnifying Glass",
+          "qty": 1,
+          "invested": true,
+          "container": ""
+        }
+      ],
+      "armor": [
+        {
+          "name": "Laboratory Coat (+1, resilient, slick)",
+          "base": "Laboratory Coat",
+          "qty": 1,
+          "prof": "unarmored",
+          "pot": 1,
+          "res": "resilient",
+          "worn": true,
+          "runes": [
+            "Slick"
+          ]
+        }
+      ],
+      "money": {
+        "pp": 0,
+        "gp": 15,
+        "sp": 0,
+        "cp": 0
+      },
+      "spells": [
+        {
+          "head": "Embodied Dragoon Subjectivity (Occult Innate Spells) DC 22, attack +12",
+          "ranks": [
+            [
+              "Rank 2",
+              [
+                [
+                  "Marvelous Mount",
+                  "spell:Marvelous Mount",
+                  " (1/day)"
+                ]
+              ]
+            ]
+          ]
+        }
+      ],
+      "slots": [
+        {
+          "entry": "Embodied Dragoon Subjectivity (Occult Innate Spells)",
+          "kind": "innate",
+          "innate": true,
+          "per_day": {
+            "2": 1
+          },
+          "prepared": {},
+          "known": {
+            "2": [
+              "Marvelous Mount"
+            ]
+          }
+        }
+      ],
+      "formulas": [
+        {
+          "type": "Alchemist",
+          "known": [
+            "Blood Bomb (Lesser)",
+            "Blood Sight Elixir (Greater)",
+            "Elixir of Life (Minor)",
+            "Elixir of Life (Moderate)",
+            "Versatile Vial (Moderate)",
+            "Blood Bomb (Moderate)",
+            "Bitterblood Elixir"
+          ]
+        }
+      ],
+      "pb_version": 2,
+      "raw": {
+        "name": "Grul'k",
+        "class": "Alchemist",
+        "dualClass": null,
+        "level": 10,
+        "xp": 0,
+        "ancestry": "Fleshwarp",
+        "heritage": "Created Fleshwarp",
+        "background": "Eldritch Anatomist",
+        "alignment": "N",
+        "gender": "Not set",
+        "age": "Not set",
+        "deity": "Not set",
+        "size": 2,
+        "sizeName": "Medium",
+        "keyability": "int",
+        "languages": [
+          "None selected"
+        ],
+        "rituals": [],
+        "resistances": [],
+        "inventorMods": [],
+        "abilities": {
+          "str": 16,
+          "dex": 16,
+          "con": 19,
+          "int": 20,
+          "wis": 10,
+          "cha": 10,
+          "breakdown": {
+            "ancestryFree": [
+              "Int"
+            ],
+            "ancestryBoosts": [
+              "Con"
+            ],
+            "ancestryFlaws": [],
+            "backgroundBoosts": [
+              "Int",
+              "Con"
+            ],
+            "classBoosts": [
+              "Int"
+            ],
+            "mapLevelledBoosts": {
+              "1": [
+                "Con",
+                "Int",
+                "Dex",
+                "Str"
+              ],
+              "5": [
+                "Con",
+                "Int",
+                "Str",
+                "Dex"
+              ],
+              "10": [
+                "Str",
+                "Dex",
+                "Con",
+                "Int"
+              ]
+            }
+          }
+        },
+        "attributes": {
+          "ancestryhp": 10,
+          "classhp": 8,
+          "bonushp": 0,
+          "bonushpPerLevel": 1,
+          "speed": 25,
+          "speedBonus": 0
+        },
+        "proficiencies": {
+          "classDC": 4,
+          "perception": 4,
+          "fortitude": 4,
+          "reflex": 4,
+          "will": 4,
+          "heavy": 0,
+          "medium": 2,
+          "light": 2,
+          "unarmored": 2,
+          "advanced": 0,
+          "martial": 0,
+          "simple": 4,
+          "unarmed": 4,
+          "castingArcane": 0,
+          "castingDivine": 0,
+          "castingOccult": 2,
+          "castingPrimal": 0,
+          "acrobatics": 0,
+          "arcana": 2,
+          "athletics": 0,
+          "crafting": 2,
+          "deception": 2,
+          "diplomacy": 2,
+          "intimidation": 2,
+          "medicine": 6,
+          "nature": 2,
+          "occultism": 6,
+          "performance": 0,
+          "religion": 0,
+          "society": 2,
+          "stealth": 0,
+          "survival": 2,
+          "thievery": 0,
+          "piloting": 0,
+          "computers": 0
+        },
+        "mods": {
+          "Fortitude": {
+            "Item Bonus": 1
+          },
+          "Reflex": {
+            "Item Bonus": 1
+          },
+          "Will": {
+            "Item Bonus": 1
+          }
+        },
+        "feats": [
+          [
+            "Alchemical Crafting",
+            null,
+            "Awarded Feat",
+            1
+          ],
+          [
+            "Assurance",
+            "Medicine",
+            "Awarded Feat",
+            1
+          ],
+          [
+            "Created Fleshwarp",
+            null,
+            "Heritage",
+            1,
+            "Heritage Feat",
+            "standardChoice",
+            null
+          ],
+          [
+            "Alchemical Assessment",
+            null,
+            "Class Feat",
+            1,
+            "Alchemist Feat 1",
+            "standardChoice",
+            null
+          ],
+          [
+            "Deepvision",
+            null,
+            "Ancestry Feat",
+            1,
+            "Fleshwarp Feat 1",
+            "standardChoice",
+            null
+          ],
+          [
+            "Battle Medicine",
+            null,
+            "Skill Feat",
+            2,
+            "Skill Feat 2",
+            "standardChoice",
+            null
+          ],
+          [
+            "Improvise Admixture",
+            null,
+            "Class Feat",
+            2,
+            "Alchemist Feat 2",
+            "standardChoice",
+            null
+          ],
+          [
+            "Sanguimancer Dedication",
+            null,
+            "Archetype Feat",
+            2,
+            "Free Archetype 2",
+            "standardChoice",
+            null
+          ],
+          [
+            "Toughness",
+            null,
+            "General Feat",
+            3,
+            "General Feat 3",
+            "standardChoice",
+            null
+          ],
+          [
+            "Godless Healing",
+            null,
+            "Skill Feat",
+            4,
+            "Skill Feat 4",
+            "standardChoice",
+            null
+          ],
+          [
+            "Efficient Alchemy",
+            null,
+            "Class Feat",
+            4,
+            "Alchemist Feat 4",
+            "standardChoice",
+            null
+          ],
+          [
+            "Blood Shield",
+            null,
+            "Archetype Feat",
+            4,
+            "Free Archetype 4",
+            "standardChoice",
+            null
+          ],
+          [
+            "Gaping Flesh",
+            null,
+            "Ancestry Feat",
+            5,
+            "Fleshwarp Feat 5",
+            "standardChoice",
+            null
+          ],
+          [
+            "Ward Medic",
+            null,
+            "Skill Feat",
+            6,
+            "Skill Feat 6",
+            "standardChoice",
+            null
+          ],
+          [
+            "Fortified Elixirs",
+            null,
+            "Class Feat",
+            6,
+            "Alchemist Feat 6",
+            "standardChoice",
+            null
+          ],
+          [
+            "Exsanguinate",
+            null,
+            "Archetype Feat",
+            6,
+            "Free Archetype 6",
+            "standardChoice",
+            null
+          ],
+          [
+            "Robust Health",
+            null,
+            "General Feat",
+            7,
+            "General Feat 7",
+            "standardChoice",
+            null
+          ],
+          [
+            "Graft Technician",
+            null,
+            "Skill Feat",
+            8,
+            "Skill Feat 8",
+            "standardChoice",
+            null
+          ],
+          [
+            "Mutant Physique",
+            null,
+            "Class Feat",
+            8,
+            "Alchemist Feat 8",
+            "standardChoice",
+            null
+          ],
+          [
+            "Transfusion",
+            null,
+            "Archetype Feat",
+            8,
+            "Free Archetype 8",
+            "standardChoice",
+            null
+          ],
+          [
+            "Embodied Dragoon Subjectivity",
+            null,
+            "Ancestry Feat",
+            9,
+            "Fleshwarp Feat 9",
+            "standardChoice",
+            null
+          ],
+          [
+            "Continual Recovery",
+            null,
+            "Skill Feat",
+            10,
+            "Skill Feat 10",
+            "standardChoice",
+            null
+          ],
+          [
+            "Unstable Concoction",
+            null,
+            "Class Feat",
+            10,
+            "Alchemist Feat 10",
+            "standardChoice",
+            null
+          ],
+          [
+            "Venipuncture",
+            null,
+            "Archetype Feat",
+            10,
+            "Free Archetype 10",
+            "standardChoice",
+            null
+          ]
+        ],
+        "specials": [
+          "Alchemy",
+          "Formula Book",
+          "Advanced Alchemy",
+          "Versatile Vials",
+          "Quick Alchemy",
+          "Mutagenist",
+          "Formulas (Mutagenist)",
+          "Field Benefit (Mutagenist)",
+          "Field Vials (Mutagenist)",
+          "Low-Light Vision",
+          "Unusual Anatomy",
+          "Medium",
+          "Darkvision",
+          "Field Discovery (Mutagenist)",
+          "Powerful Alchemy",
+          "Alchemical Weapon Expertise",
+          "Will Expertise",
+          "Alchemical Expertise",
+          "Double Brew",
+          "Perception Expertise",
+          "Created Fleshwarp"
+        ],
+        "lores": [
+          [
+            "Fleshwarp",
+            2
+          ]
+        ],
+        "equipmentContainers": {},
+        "equipment": [
+          [
+            "Magnifying Glass",
+            1,
+            "Invested"
+          ]
+        ],
+        "specificProficiencies": {
+          "trained": [],
+          "expert": [
+            "Alchemical Bomb"
+          ],
+          "master": [],
+          "legendary": []
+        },
+        "weapons": [
+          {
+            "name": "Alchemical Bomb",
+            "qty": 1,
+            "prof": "martial",
+            "die": "d0",
+            "pot": 0,
+            "str": "",
+            "mat": null,
+            "display": "Alchemical Bomb",
+            "runes": [],
+            "damageType": "Varies",
+            "attack": 17,
+            "damageBonus": 0,
+            "extraDamage": [],
+            "increasedDice": false,
+            "isInventor": false,
+            "grade": ""
+          },
+          {
+            "name": "Thundermace",
+            "qty": 1,
+            "prof": "simple",
+            "die": "d8",
+            "pot": 3,
+            "str": "striking",
+            "mat": null,
+            "display": "+3 Striking Hooked Thundermace",
+            "runes": [
+              "Hooked"
+            ],
+            "damageType": "B",
+            "attack": 20,
+            "damageBonus": 3,
+            "extraDamage": [],
+            "increasedDice": false,
+            "isInventor": false,
+            "grade": ""
+          }
+        ],
+        "money": {
+          "cp": 0,
+          "sp": 0,
+          "gp": 15,
+          "pp": 0
+        },
+        "armor": [
+          {
+            "name": "Laboratory Coat",
+            "qty": 1,
+            "prof": "unarmored",
+            "pot": 1,
+            "res": "resilient",
+            "mat": null,
+            "display": "Laboratory Coat",
+            "worn": true,
+            "runes": [
+              "Slick"
+            ],
+            "grade": ""
+          }
+        ],
+        "spellCasters": [
+          {
+            "name": "Embodied Dragoon Subjectivity",
+            "magicTradition": "occult",
+            "spellcastingType": "prepared",
+            "ability": "cha",
+            "proficiency": 2,
+            "focusPoints": 0,
+            "innate": true,
+            "perDay": [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "spells": [
+              {
+                "spellLevel": 0,
+                "list": []
+              },
+              {
+                "spellLevel": 1,
+                "list": []
+              },
+              {
+                "spellLevel": 2,
+                "list": [
+                  "Marvelous Mount"
+                ]
+              }
+            ],
+            "prepared": [],
+            "blendedSpells": []
+          }
+        ],
+        "focusPoints": 0,
+        "focus": {},
+        "formula": [
+          {
+            "type": "Alchemist",
+            "known": [
+              "Blood Bomb (Lesser)",
+              "Blood Sight Elixir (Greater)",
+              "Elixir of Life (Minor)",
+              "Elixir of Life (Moderate)",
+              "Versatile Vial (Moderate)",
+              "Blood Bomb (Moderate)",
+              "Bitterblood Elixir"
+            ]
+          }
+        ],
+        "acTotal": {
+          "acProfBonus": 12,
+          "acAbilityBonus": 3,
+          "acItemBonus": 1,
+          "acTotal": 26,
+          "shieldBonus": null
+        },
+        "pets": [],
+        "familiars": []
+      },
+      "pathbuilder_id": "476753"
+    },
+    "ancestry": "Fleshwarp",
+    "role": "Alchemist 10",
+    "pathbuilder_id": "476753"
+  },
+  {
+    "id": "09107a98eb",
+    "title": "Finders Keep",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "trade",
+      "craft",
+      "treasure"
+    ],
+    "body": "Finders Keep is the goblin settlement, built directly beneath Hallowmead's refuse chutes, so that everything the surface throws away falls into goblin hands. It is a chaotic, colorful, multi-tiered settlement in a massive tall-ceilinged cavern, built entirely from repurposed surface refuse, with scrap towers, rope bridges, cranes, and sorting platforms. Goblins are brilliant tinkerers and improvised engineers, every single thing they own is something someone else did not want, and they are natural trade partners of the kobolds. Their emotional hook is worth: proving that discarded things still have value.\n\nLeader: [[Kraggix Scraptooth]], Chief of Finders Keep.\n\nBanner (visual canon): rust-red cloth with patched repairs and a ragged lower hem, bearing a large off-white skull with uneven eye sockets, a triangular nose cavity, and elongated dripping lower teeth. Crude, proud, and goblin-made, flat on the cloth, and it reads as scrap-built goblin ingenuity. Faction colors are rust red, dirty green, and faded yellow.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "e3e2070460b5",
+    "kind": "goblin scavenger settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "4cbc639e48",
+    "title": "The Grand Underhall",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "craft",
+      "politics"
+    ],
+    "body": "The Grand Underhall is the kobold settlement and the central connecting infrastructure hub of the Underhallow, with the finest stonework there: carved columns, arched ceilings, gothic-style architecture, dragon head carvings on the facades, and mine cart rails for logistics. Signs in childlike handwriting such as \"WE DIG BIG HOLE\" and \"ROCK IS GOOD!\" show kobold pride on full display. The kobolds were the original architects of the livable Underhallow, dug the first tunnels, and still maintain the infrastructure for every faction, so every faction's home exists because a kobold built it. They have the best mental map of the tunnels and quiet economic leverage, and Ulzerett cannot unite the factions without their buy-in. Their emotional hook is being the foundation everyone stands on and nobody acknowledges.\n\nLeader: [[Skritch Stonebender]], Master Mason.\n\nBanner (the dragon-question-mark silhouette is LOCKED CANON): deep red or brick-red cloth bearing a white dragon-shaped question mark, with the dragon's head forming the upper curve, the neck forming the body, and the tail curling inward as the hook. It reads as proud builders asking what lies deeper. Faction colors are warm stone tones with subtle gold accents.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "369581dd1c54",
+    "kind": "kobold mason settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "77b6a4049d",
+    "title": "The Hushwarrens",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "mystery",
+      "trade",
+      "crime"
+    ],
+    "body": "The Hushwarrens is the ratfolk settlement, built in abandoned catacombs and lower sewer levels near the surface, with three visible layers: surface streets, active sewers, and catacomb warrens, reached through the North Ward, the Merchant District, and the South Ward. It is understated and hard to find from outside, though the ratfolk love money and status symbols and keep a golden throne, velvet curtains, and bookshelves stuffed with records (with comic signs like \"SHINY THINGS VERY IMPORTANT\"). The ratfolk were blamed for a plague that swept Hallowmead's lower districts two generations ago and were driven underground by mobs. They keep meticulous records proving what actually happened, operate covertly on the surface, and serve as the Underhallow's connection to surface information and goods. Their emotional hook is injustice they can prove and no one will hear.\n\nLeader: [[Vesk Quickwhisker]], Warden and Guildmaster.\n\nBanner (visual canon): charcoal-black, gray-purple, or desaturated blue-black cloth bearing a pale broken crescent above a central downward fang or dagger-like mark with two smaller lower points. It is a sign noticed only after learning to look for it, must resemble the symbol on Vesk's cloak and banner, and is never a route map, node network, or circuitry. Faction colors are charcoal, deep blue, and muted purple.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "93922b7b7f64",
+    "kind": "ratfolk settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "ace58896e2",
+    "title": "Stillwater Hollow",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "nature",
+      "mystery"
+    ],
+    "body": "Stillwater Hollow is the grippli settlement, built along and around the underground river the grippli followed down from the surface, with platforms on stilts over water, cascading waterfalls and pools, and organic amphibious architecture of leaf-like awnings and natural curves in a blue-green palette. The grippli once lived in a river delta near what became Hallowmead, and followed the receding water underground when the city diverted waterways for irrigation, sanitation, and industry. They could not go deeper because they ran into something terrible, likely an aboleth or similar aberration, so they settled in the upper Underhallow as the safest place between two dangers, and they are the only faction who knows firsthand how bad the deep gets. Water from Stillwater flows toward the Quiet Ring. Their emotional hook is slow erasure from above, terror from below, and no safe direction.\n\nLeader: [[Brakka Mossleap]], Elder.\n\nBanner (visual canon): teal and blue-green cloth bearing a pale flowing water-current made of loose brush-like strokes with small droplets, reading as flow around obstacles rather than through them.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "1a9eb5d2dfd1",
+    "kind": "grippli settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "c4767a1ac2",
+    "title": "The Quiet Ring",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "nature",
+      "magic"
+    ],
+    "body": "The Quiet Ring is an immense underground forest, a biome rather than a garden, where nothing was built and everything was grown: living root walls, fungal shelf platforms, mushroom canopy shelters, and moss floors lit by glowing mushrooms, luminous spore pods, and phosphorescent pools (there are no lanterns and no fire). An ancient druidic circle of standing stones sits at the center beside a massive central tree that is the heart of the settlement, and the water of Stillwater Hollow flows through or connects to it. Root and fungus leshys live here as equals with arboreals, who see each other as family. The leshys were created by a forgotten druidic circle for unknown purposes and there is a fixed limit to how many can exist, so every leshy death is a potentially permanent loss and the community is cautious and risk-averse; arboreals are naturally occurring and can reproduce, which partly solves the problem. The leshys feel sympathy for the automatons of the Mending. Their emotional hook is survival and kinship, and a community that cannot replenish itself.\n\nLeader: [[Verdara]], Thornmother and Warden of New Roots.\n\nBanner (visual canon): deep moss-green cloth bearing a pale living root-circle with interwoven roots, overlaps, irregular thickness, and an incomplete loop. It must feel alive, growing, and interconnected rather than skeletal. Faction colors are greens, pinks, and purples with organic bioluminescence.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "d009964df644",
+    "kind": "leshy and arboreal settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "9cfb3fbef2",
+    "title": "The Mending",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "craft",
+      "family"
+    ],
+    "body": "The Mending is the combined community of discarded automatons and defective poppets, named for what they do: fix each other. It is a vast, flat, sprawling cavern, mostly one level, with a wide open workshop floor, large workshop complexes, barrel-vaulted repair halls, domed structures, cranes, water wheels, and forge areas, in a fantasy-industrial style that is not steampunk. A Corebound blue glow runs through archways, windows, lampposts, and embedded panels, and a central spire made from salvaged Corebound technology is the heart and landmark of the settlement; a softer, warmer poppet corner has colorful tent canopies. Automatons whose bodies cannot be repaired are honored by having their salvageable parts reused in others, so repaired automatons often visibly carry mismatched components from many community members, which is culturally accepted and considered honorable. Poppets are traditional cloth-and-wood dolls with visible repairs, patches, stitches, and replacement buttons, and should read as beloved repaired toys rather than miniature automatons. The automatons were built by Liza Herkroft's workshop and dumped in the Underhallow when defective, and every automaton has a rejection story. Their emotional hooks are being rejected and discarded, and being built to be loved and thrown away when imperfect.\n\nLeader: [[Stitch]], First Repaired, with [[Pip]] as Storykeeper.\n\nBanner (visual canon): sapphire-blue cloth bearing a broken repair-circle surrounding a central node, with intentionally irregular spacing and repaired segments. It reads as many damaged parts functioning together and is never a gear, machine diagram, UI symbol, or technological interface.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "d06cc0327698",
+    "kind": "automaton and poppet settlement",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "0d19179a73",
+    "title": "Firstlight",
+    "type": "Faction",
+    "status": "neutral",
+    "tags": [
+      "underground",
+      "magic",
+      "nature",
+      "mystery"
+    ],
+    "body": "Firstlight is a relatively small underground biome named for the first moment of awareness, and the most magic-saturated zone in the Underhallow. It is bioluminescent in neon pinks, glowing teals, vivid purples, and hot magentas, with mutated plant life that is recognizable but wrong in color and scale, giant glowing mushroom trees with purple flat-caps, blue and purple crystal formations, and waterfalls cascading into glowing teal pools. The awakened animals live in dens carved into the rock walls with warm golden light and tiny stairs: there are no formal structures, no market stalls, and no civilization. They are transient animals that wandered into the magic-saturated zones and were awakened to full sapience, with no shared grievance with the surface and no community history, which makes them the hardest faction for Ulzerett to motivate. Firstlight sits between the main settlements and [[Karak's Everhold]] (and [[The Descent]]), and every creature traveling between the dungeon and the Underhallow must pass through it, receiving a nudge of critical thinking and comprehension on the way. Their emotional hook is being suddenly aware and still figuring out what thinking and identity even mean.\n\nLeader: still to be decided (the bible lists the Firstlight representative as TBD).\n\nBanner (visual canon): ochre, muted gold, or warm yellow cloth bearing a pale branching awareness mark with a vertical center and upward-reaching divisions, representing awakening and emerging thought. It is never wheat, grain, crops, religion, or animal forms. The bible says the sigil is rarely formalized.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements; Playable Races & Factions; Canon Faction Banners; Leaders TBD",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "348ec56ec82b",
+    "kind": "awakened animal territory",
+    "rep": {
+      "points": 0,
+      "log": [],
+      "notes": {}
+    },
+    "goals": [],
+    "rivals": []
+  },
+  {
+    "id": "6d1f09f5ad",
+    "title": "Kraggix Scraptooth",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "craft",
+      "treasure"
+    ],
+    "body": "Kraggix Scraptooth is the goblin chief of [[Finders Keep]], a boisterous, proud scavenger leader who lives the philosophy that everything has value if you can use it. He is loud, theatrical, and deeply proud of his people, and known for outrageous scrap-built gear and lucky finds.\n\nSignature look (bible): scrap-built armor, goggles pushed up on the forehead, one piece of recovered Corebound equipment that he proudly displays, a red cape, and a skull motif.\n\nFrom our art chats (not in the bible): in the field-journal sketches he is shown working on a dangerously improvised contraption that is visibly about to fail while he stays unaware of it.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "97abbe8a690e",
+    "ancestry": "Goblin",
+    "role": "Chief of Finders Keep"
+  },
+  {
+    "id": "8ed33bdb08",
+    "title": "Skritch Stonebender",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "craft"
+    ],
+    "body": "Skritch Stonebender is the kobold Master Mason of [[The Grand Underhall]], an energetic, obsessive builder who treats stonework as art and engineering combined and is constantly working, chiseling, refining, and improving. He is excitable, passionate, and proud of kobold craftsmanship.\n\nSignature look (bible): mason's clothes, a blue cloak, a chisel and mallet, and always mid-task on a stone block.\n\nFrom our art chats (not in the bible): small, red-scaled, and silly in the specific way of an obsessive perfectionist who crouches inches from immaculate stonework to correct a flaw nobody else can see.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "e9e36b29f20c",
+    "ancestry": "Kobold",
+    "role": "Master Mason of the Grand Underhall"
+  },
+  {
+    "id": "85dbb29847",
+    "title": "Vesk Quickwhisker",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "mystery",
+      "trade"
+    ],
+    "body": "Vesk Quickwhisker is the Warden and Guildmaster of [[The Hushwarrens]], a refined covert broker and infiltrator who moves between the surface and the Underhallow unseen and maintains networks of routes, secrecy, and information. Vesk wears practical clothing with subtle status symbols, and is quiet, controlled, and calculating, respected rather than feared.\n\nSignature look (bible): climbing a wall at night with the tail wrapped around the handle of a tail blade, in refined dark muted tones. The Hushwarrens symbol on Vesk's cloak and banner is the visual reference for the faction banner.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "150ddd33f81d",
+    "ancestry": "Ratfolk",
+    "role": "Guildmaster of the Hushwarrens"
+  },
+  {
+    "id": "5a8cd4ab25",
+    "title": "Brakka Mossleap",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "nature",
+      "magic"
+    ],
+    "body": "Brakka Mossleap is the Elder of [[Stillwater Hollow]], a calm, contemplative water-shaper who guides the community through ritual and quiet wisdom and uses water magic to sustain and shape the settlement. Brakka is serene, patient, and deeply connected to flow and balance.\n\nSignature look (bible): crouched at the river's edge pulling water from the stream with one hand and holding a staff with the other, in blue-green robes, with no ears.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "d23cb69b4222",
+    "ancestry": "Grippli",
+    "role": "Elder of Stillwater Hollow"
+  },
+  {
+    "id": "ad180b336c",
+    "title": "Verdara",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "nature",
+      "magic",
+      "family"
+    ],
+    "body": "Verdara is the Thornmother and Warden of New Roots, the female arboreal leader of [[The Quiet Ring]] and the fiercely protective matriarch of the leshy spirits. She views every leshy spirit as irreplaceable because leshys cannot naturally replenish their numbers, regards the arboreals as the older siblings and the leshys as the children, and remembers every leshy's first words, first bloom, first mistakes, and death. When a leshy dies she adds a living branch to her own body in remembrance. She is patient, not gentle: she will spend weeks listening and become a weapon in an instant if a leshy is threatened.\n\nSignature look (bible): a tall, graceful body of living wood, bark, roots, vines, moss, and small flowers, with a narrow carved-bark face and glowing green eyes, digitigrade root-claw legs, a crown of living antler-like branches bearing leaves, flowers, and preserved memorial twigs, four additional living branch-limbs, an emerald heartwood core with drifting spirit-lights, a living bow, and a large living wooden sword. Her visual theme is shelter: \"Nothing under my protection is expendable.\"",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "d64a7a179247",
+    "ancestry": "Arboreal",
+    "role": "Thornmother of the Quiet Ring"
+  },
+  {
+    "id": "249af6acc2",
+    "title": "Stitch",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "craft",
+      "family"
+    ],
+    "body": "Stitch is the automaton First Repaired and leader of [[The Mending]], leader not by appointment but because everyone goes to Stitch when something is broken. He was one of the earliest discarded automatons to survive in the Underhallow, and he is not the strongest, wisest, or most charismatic, but the one who stayed and never stopped repairing others. He is focused, patient, gentle through action, and quietly authoritative. In Pathfinder 2E he is an Inventor, and his gear and prosthetics are expressed through a custom innovation that is built, broken, and rebuilt over time.\n\nSignature look (bible): a Prototype-model automaton silhouette that is subtly uncanny, slightly too tall and narrow, with elongated limbs and very long articulated fingers, patched and irregular rather than smooth, and carrying mismatched limbs and plates from many automaton generations and keepsake parts from former community members, with a blank faceplate and two glowing blue eyes. His signature gear is the Archive Arm (LOCKED CANON, replacing the retired Founder's Wrench): an intentionally oversized prosthetic that houses his tools, which must always appear on the same side in every view. He also has a collapsible shield that folds out of the forearm of his non-Archive arm. His visual theme is repair: \"Nothing is beyond repair.\"",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "f6edda415f33",
+    "ancestry": "Automaton",
+    "role": "First Repaired of the Mending"
+  },
+  {
+    "id": "95fe71ac16",
+    "title": "Pip",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "underground",
+      "mystery",
+      "family"
+    ],
+    "body": "Pip is the poppet Storykeeper of [[The Mending]], the named companion and close counterpart of [[Stitch]], and represents the poppet half of the community as Stitch represents the automaton half. She is a recurring character in her own right, not a servant, mascot, or assistant. Pip keeps the community's records: who was repaired, whose parts were preserved, and the stories behind every repair. She is attentive, practical, busy, careful, warm, and charmingly fussy.\n\nSignature look (bible): a traditional cloth-and-wood doll with a stitched fabric head, visible seams, patched limbs, button or bead eyes, a small muted blue scarf or sash, and a satchel of ledgers and repair notes. She must read as a traditional doll, never as a miniature automaton: no enamel-coated metal plating and no glowing automaton eyes. Together Stitch and Pip embody \"Repair and Remembrance.\"",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Established Faction Leaders",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "2ab0f62da1de",
+    "ancestry": "Poppet",
+    "role": "Storykeeper of the Mending"
+  },
+  {
+    "id": "b361d4cc8c",
+    "title": "Urist Eremor",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "politics",
+      "military"
+    ],
+    "body": "Urist Eremor is the Grand Lord of [[Hallowmead]], a human in his mid-fifties with dark hair, two distinct gray streaks, and blue eyes. He inherited rule by bloodline, not merit, and is arrogant and self-centered. He plays an ignorant facade for the masses while his eyes belie it, publicly maintains traditions and customs, and presents an image of strength, stability, and generosity. He lets Malcior Veyndor's raids and kidnappings continue to keep the Lord Sage quiet, and sees Liza Herkroft as a useful toolmaker and nothing more.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Royal Court",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "27618b88f7de",
+    "ancestry": "Human",
+    "role": "Grand Lord of Hallowmead"
+  },
+  {
+    "id": "e59934bdae",
+    "title": "Orion Palend",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "politics",
+      "military",
+      "mystery"
+    ],
+    "body": "Orion Palend is the Lord Commander of Hallowmead's militia, a human in appearance, in his mid-fifties and a little older than Urist, with a moderate soldier's build. He is publicly feared for bold leadership and unbreakable resolve and known for daring tactics and unwavering discipline. Everyone knows that he does not age or die: a Seer told him he was \"cursed with life until a destined moment,\" and the curse framing shuts down curiosity, so people pity, revere, and fear him rather than question how it works. He has no scars, and keeps his own visibly battered, personally repaired armor and weapons. He organizes expeditions into the Underhallow at the request of the Lord Sage and the order of the Grand Lord, and he is the likely leader of the force that arrives in Phase 2.\n\nGM ONLY: Orion is an Immortal, unknown to everyone but himself, and has been in this world for thousands of years, far longer than Ulzerett. His recklessness comes from exhaustion as much as bravery, and part of him tests whether each fight is the destined moment. Orion and Ulzerett are not aware of each other, and Orion's specific mission is TBD.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Royal Court; Campaign Structure",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "75423324cc43",
+    "ancestry": "Human",
+    "role": "Lord Commander of Hallowmead"
+  },
+  {
+    "id": "cf986a3524",
+    "title": "Liza Herkroft",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "craft",
+      "politics",
+      "magic"
+    ],
+    "body": "Liza Herkroft is Hallowmead's Lady Artificer, an adult elf with a muscular but feminine build from working heavy tools daily, usually in craftsman clothing with grease on her hands and cheek. She is a publicly respected engineer and innovator known for diligence, skill, and practical solutions, always working in her workshop, which also produces poppets as toys for children. She creates the city's automatons and arms: the military uses Corebound weapons derived from her work, while the City Guard uses light civic Corebound-style armor but ordinary weapons. She does not consider her automatons or poppets to be alive, and does not consider the technology magical, but an engineered material and energy system she is learning to control. She is quietly confident that the Underhallow expeditions uncovered something not natural to the world, and keeps that to herself. Her personal maker's mark (LOCKED CANON) is a tall vertical symbol of a single continuous knot with matching upper and lower loops and a detached almond-shaped eye, hidden where only another craftsperson would look.\n\nGM ONLY: Liza does not know about the Immortals. The technology she recovered from an underground tomb is the only thing that can permanently kill an Immortal, which makes her unknowingly the most important person in the setting. The phrase \"Immortal tech\" is GM-facing only and must never appear in public-facing or in-world text; publicly it is Corebound equipment.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Royal Court; Core Lore: The Immortals; Liza Herkroft Personal Maker's Mark",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "e14bc3f9453c",
+    "ancestry": "Elf",
+    "role": "Lady Artificer of Hallowmead"
+  },
+  {
+    "id": "6c7394c90e",
+    "title": "Malcior Veyndor",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "politics",
+      "magic",
+      "mystery"
+    ],
+    "body": "Malcior Veyndor is the Lord Sage, a human who looks to be in his seventies though his voice is that of a man in his thirties. He is publicly the advisor on history, law, and the arcane, keeper of the city's archives, and the voice of wisdom, pictured as a kindly scholar among books, candlelight, quill, and parchment. He counsels the Grand Lord on matters seen and unseen, and is distrustful of Liza.\n\nGM ONLY: Malcior is secretly a necromancer who practices deep within the city bordering on the Underhallow, and is responsible for the raids and kidnappings that Urist allows. He believes Urist is leading his people blindly into oblivion and that Liza has uncovered a new form of magic she refuses to discuss. If he ever learned about Immortal regeneration he would do anything to obtain it.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Royal Court",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "84967b8a739f",
+    "ancestry": "Human",
+    "role": "Lord Sage of Hallowmead",
+    "avoid": [
+      "undead"
+    ]
+  },
+  {
+    "id": "3136ae2463",
+    "title": "Ulzerett",
+    "type": "NPC",
+    "status": "alive",
+    "tags": [
+      "gm-only",
+      "mystery",
+      "politics"
+    ],
+    "body": "GM ONLY. Ulzerett is a Blue Dragon Immortal with sapphire and steel-blue scales, electric azure veins, and stormlight eyes, roughly 50 to 60 feet long in dragon form. In his humanoid dragonborn form he is tall and draconic in practical traveler's clothes (a dark charcoal cloak and brown leather), and looks like a leader, not a villain or a saint. He has been in this world a few hundred years, arrived with a team of Immortals whom he tricked and sealed in his ambition, and has a deep scar on his left shoulder inflicted by Immortal-derived technology that never fully healed. He is quietly building the Underhallow alliance to overthrow Hallowmead and frames it as liberation, but his true motives are hidden even from the player characters, and the specific reason beyond ambition is TBD.\n\nConstraints: he is one being, and if knocked unconscious he could be sealed forever. Hallowmead's military carries Corebound weapons that can permanently kill him, he cannot enter Hallowmead himself, and so he sends the player characters. He needs Liza either turned, controlled, or removed, because everything she deciphers is a potential death sentence for him.\n\nHis Underhallow persona (a canon decision made after the bible's July 2026 edition): a single persona, a dwarven field historian, mechanically a Magus with the Archaeologist archetype. The persona's name has not been set. The bible's list of seven separate disguised advisers (Khazuk, Skritch Foretalon, Vesk Dourrunner, Jorun Deepcurrent, Elder Verdantroot, Unit Z-17 \"Patch,\" and Greywing) predates that decision and should be treated as superseded; update the bible when you next edit it. Either way the persona is separate from the real faction leaders, who do not know.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Ulzerett; Core Lore: The Immortals; persona decision from our chats (2026-07-24)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "3a1d2d82a17f",
+    "ancestry": "Dragon",
+    "role": "Hidden Blue Dragon Immortal"
+  },
+  {
+    "id": "e34b1142e0",
+    "title": "Hallowmead",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "politics",
+      "military",
+      "trade"
+    ],
+    "body": "Hallowmead is a wealthy, orderly, prosperous, well-governed surface city that is hierarchical and authoritarian beneath the polish. It is ruled by [[Urist Eremor]], with [[Orion Palend]] commanding the militia, [[Liza Herkroft]] building its arms and automatons, and [[Malcior Veyndor]] advising on history and the arcane. Its colors are crimson and gold. Its buildings are cream-colored stone with sparse clean seams, red tiled roofs, and arched windows and doors, along clean cobblestone streets with controlled civic greenery, and it is not steampunk, industrial Victorian, or whimsical. Its people are the standard surface peoples (humans, elves, dwarves, halflings, gnomes, aasimar, tieflings, orcs), and Underhallow peoples are not shown in ordinary surface crowd scenes. It treats the Underhallow's inhabitants as pests, raids and extracts resources from beneath it, and erases their culture, and everything it throws away falls down the refuse chutes to Finders Keep. Its official sigil (LOCKED CANON) is a gold circular emblem containing a vertically symmetrical multi-spired fortress on crimson, and its civic banner (LOCKED CANON, Variant H) shows crimson cloth, a gold ring, and a gold fortress whose dominant central tower extends above the top of the ring.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Surface: Hallowmead; The Royal Court; Visual Style Guide",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "4db8883d47fb",
+    "kind": "surface city",
+    "preps": [
+      "near",
+      "just outside",
+      "beneath"
+    ]
+  },
+  {
+    "id": "19e285a315",
+    "title": "The Underhallow",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "underground"
+    ],
+    "body": "The Underhallow is a vast underground network of tunnels, caverns, and chambers beneath Hallowmead, home to the downtrodden and discarded. Some areas are miles apart, so traveling between settlements is a real journey, and the kobolds built and maintain the infrastructure connecting everything. Its seven factions are [[Finders Keep]], [[The Grand Underhall]], [[The Hushwarrens]], [[Stillwater Hollow]], [[The Quiet Ring]], [[The Mending]], and [[Firstlight]], who meet at [[The Crossings]]. It is caught between three forces working through deception, and the first phase of the campaign is light, scrappy, and whimsical, building camaraderie between factions that do not naturally trust one another.\n\nRoutes (bible connection graph): the Hushwarrens link to Finders Keep and the Grand Underhall, and Finders Keep links to the Grand Underhall and Stillwater Hollow. The Grand Underhall, the Mending, and Stillwater Hollow each link to the Crossings, Stillwater Hollow also links to the Quiet Ring, and the Quiet Ring and the Crossings both link to Firstlight. Firstlight is the only way to [[Karak's Everhold]] or [[The Descent]]. The surface's only connection is Orion's Ingress, down to [[Crown's Post]].\n\nPoints of interest: Waystone Nook (between the Glimmer and the Mending), Echo Junction (on the path from Firstlight to Karak's Everhold), Old Miner's Rest (between the Quiet Ring and Firstlight), Lost Cart Passage (a long-abandoned mining route with broken carts still in place), and the Breathing Deep.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: The Underhallow: Geography & Locations",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "a1b1df28f1ce",
+    "kind": "region",
+    "preps": [
+      "somewhere in",
+      "deep in",
+      "in"
+    ]
+  },
+  {
+    "id": "5cf7940aad",
+    "title": "The Crossings",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "underground",
+      "trade",
+      "festival",
+      "politics"
+    ],
+    "body": "The Crossings is where all factions meet and the heart of the Underhallow: a massive open central plaza with a crystal spire landmark, where every faction has brought a piece of its home. There are goblin scrap stalls with skull banners and smoke, kobold stonework throughout, bioluminescent mushrooms and a living tree from the Quiet Ring, the blue Corebound glow of the Mending, colorful poppet market areas, and water features from Stillwater. Faction banners mark territory and trade areas, and tunnel entrances around the edges lead to each settlement.\n\nThe proposed annual events in this Notebook are set here.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements: The Crossings",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "be3ab7bd43ae",
+    "kind": "common market and gathering space",
+    "preps": [
+      "at",
+      "at",
+      "near",
+      "just outside"
+    ]
+  },
+  {
+    "id": "d45b5872ea",
+    "title": "Orion's Ingress",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "military",
+      "politics"
+    ],
+    "body": "Orion's Ingress is the primary entry point for Hallowmead military expeditions into the Underhallow. It sits on the surface, touching it directly, with a massive crane and lift system that lowers troops and supplies down. It is isolated from all faction settlements and has a single connection down to [[Crown's Post]].",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Surface-Controlled Areas",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "d7f10cebd5ec",
+    "kind": "surface entry point",
+    "preps": [
+      "at",
+      "near",
+      "just outside"
+    ]
+  },
+  {
+    "id": "609972e569",
+    "title": "Crown's Post",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "military",
+      "politics",
+      "trade"
+    ],
+    "body": "Crown's Post is Hallowmead's underground military fortress and maintenance outpost, built and maintained by the military in robust, formal stonework, with banners showing the official sigil, a gold tower on crimson. The Underhallow's residents use the name for the surface occupation, with some contempt. It has a central, elevated Command Hall, a training yard, barracks, a gatehouse and bottleneck chokepoints, watch posts, staging caves, refining works and ore processing for minerals from [[The Glimmer]], supplies and an armory, and storage vaults. It connects upward to [[Orion's Ingress]] and outward to The Glimmer and the [[Ancient Ruins]].",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Surface-Controlled Areas: Crown's Post",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "21fd598ffa8d",
+    "kind": "Hallowmead military outpost",
+    "preps": [
+      "at",
+      "near",
+      "just outside"
+    ]
+  },
+  {
+    "id": "ec6d99512d",
+    "title": "The Glimmer",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "military",
+      "trade",
+      "magic"
+    ],
+    "body": "The Glimmer is a massive crystal cavern with purple and violet crystals erupting from the walls and ceiling, heavily guarded and mined by Hallowmead as the source of raw minerals for the refining works at [[Crown's Post]]. The bible's connection graph also links it to the Mending through Waystone Nook, while the Glimmer's own entry says it connects only to Crown's Post; the bible flags this as unresolved.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Surface-Controlled Areas: The Glimmer; Editorial Consistency Checks",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "7769b7004ac6",
+    "kind": "crystal caverns",
+    "preps": [
+      "near",
+      "in",
+      "just outside"
+    ]
+  },
+  {
+    "id": "9edf7d1692",
+    "title": "Ancient Ruins",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "ruin",
+      "military",
+      "mystery"
+    ],
+    "body": "The Ancient Ruins are a restricted site reached through [[Crown's Post]], where the surface controls access. Liza Herkroft's expeditions recovered the technology there that she has been studying and building into Corebound equipment.\n\nGM ONLY: it is an Immortal tomb and technology site.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Surface-Controlled Areas: Ancient Ruins",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "ce41abb6681f",
+    "kind": "restricted ruins",
+    "preps": [
+      "near",
+      "just outside"
+    ],
+    "the": true
+  },
+  {
+    "id": "9fa3e27cfb",
+    "title": "Karak's Everhold",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "ruin",
+      "monster",
+      "treasure",
+      "underground"
+    ],
+    "body": "Karak's Everhold is an abandoned dwarven dungeon at the far end of the Underhallow, reached on foot only through [[Firstlight]]. It predates Hallowmead. The dwarves dug too deep and broke through into areas of [[The Descent]], and a battle lasting roughly a generation followed, until the younger dwarves decided constant conflict was not worth it and left with their valuables. The elders extracted a vow that they would return one day to reclaim it, which could happen at any time but is not a primary plot point. Abandoned dwarven architecture, traps, and infrastructure remain, inhabited by dungeon creatures, some of which crawl up through the breach from the Descent. The most common creatures to pass through Firstlight and be uplifted are mimics, slimes, and doppelgangers. If the dwarves return they will find the Underhallow's factions depending on spaces near their old territory, which poses a moral dilemma: do the downtrodden, who know displacement, displace someone else?",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Karak's Everhold; Uplifted Dungeon Creatures",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "f2a93e93e46a",
+    "kind": "abandoned dwarven dungeon",
+    "preps": [
+      "in",
+      "at",
+      "deep in"
+    ]
+  },
+  {
+    "id": "149891eabd",
+    "title": "The Descent",
+    "type": "Location",
+    "status": "",
+    "tags": [
+      "monster",
+      "mystery",
+      "underground"
+    ],
+    "body": "The Descent is the deepest known passage leading further underground, where an aboleth or similar aberration lurks, the thing the grippli fled from. It connects to [[Firstlight]] and, through the dwarven breach, to [[Karak's Everhold]]. No one goes there willingly, and its color identity is dark, deep, and oppressive.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Faction Settlements: The Descent; Three-Layer Threat Structure",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "f34c319417c2",
+    "kind": "passage to the deep",
+    "preps": [
+      "near",
+      "at the edge of"
+    ]
+  },
+  {
+    "id": "145a29322f",
+    "title": "The Great Reclamation",
+    "type": "Event",
+    "status": "upcoming",
+    "tags": [
+      "festival",
+      "trade",
+      "treasure",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. Once each year the refuse flow from above reaches its peak after a major surface festival. The goblins of [[Finders Keep]] treat the occasion as a harvest festival, a sporting event, and a religious holiday at once, and the haul can be large enough to affect trade across the Underhallow for months. Contests include fastest salvage crew, most valuable discovery, strangest discovery, best rebuilt invention, and a What Is This Thing? competition in which contestants try to identify objects nobody understands.\n\nThe draft recommended canonizing this one first.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (annual events brainstorm, 2026-09-25)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "e1e76e5bf623",
+    "when": "once a year, after a major surface festival"
+  },
+  {
+    "id": "20beb9156d",
+    "title": "Founders' Day",
+    "type": "Event",
+    "status": "upcoming",
+    "tags": [
+      "festival",
+      "craft",
+      "family",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. Possibly the most important holiday in the Underhallow. It honors the kobolds of [[The Grand Underhall]] who built the tunnel network, and the idea that communities must build things together if they intend to survive underground.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (annual events brainstorm; the draft text was cut off)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "a8962f802258",
+    "when": "once a year"
+  },
+  {
+    "id": "b733eca6f4",
+    "title": "The Underhallow Concord",
+    "type": "Event",
+    "status": "upcoming",
+    "tags": [
+      "festival",
+      "politics",
+      "trade",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. The largest annual gathering, held at [[The Crossings]], where every settlement sends representatives. Its public purpose is celebration, trade, and friendly competition; its quiet purpose is maintaining the fragile relationships that keep the Underhallow working. The Concord is the one time each year when grudges are supposed to be set aside, and its main attraction is the Sevenfold Challenge, a friendly competition built so that no faction dominates every category, including the Great Recovery, a scavenger hunt through abandoned tunnels.\n\nThe draft's hook: every faction traditionally sends one champion, but this year a mixed-faction team is being tried, and the player characters are the experiment.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (annual events brainstorm, 2026-09-25)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "62bb82fb680d",
+    "when": "once a year, at the Crossings"
+  },
+  {
+    "id": "c236c7e5e1",
+    "title": "The Great Burden",
+    "type": "Event",
+    "status": "upcoming",
+    "tags": [
+      "festival",
+      "craft",
+      "politics",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. An annual period in which the whole Underhallow works together on maintenance it cannot survive without: tunnels collapse, waterways shift, bridges rot, fungal infestations spread, crystal growth blocks roads, ancient dwarven structures become unstable, and monster incursions increase near remote passages. It is part maintenance project, part trade summit, part social event. If a faction refuses to take part, everyone remembers. [[Finders Keep]] brings salvage crews and materials, and [[The Mending]] serves as the primary repair corps, with [[Stitch]] overseeing major efforts and [[Pip]] documenting completed work.\n\nThis overlaps with the Concord and the Festival of Found Things; the drafts were alternatives.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (annual events brainstorm, 2026-09-25)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "95932be1576a",
+    "when": "once a year"
+  },
+  {
+    "id": "599429eb6b",
+    "title": "The Festival of Found Things",
+    "type": "Event",
+    "status": "upcoming",
+    "tags": [
+      "festival",
+      "family",
+      "trade",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. An annual celebration of the idea that nothing discarded is worthless. Its origin is that every faction survived because somebody shared something they could have kept: goblins shared salvage, kobolds shared tunnels, grippli shared water, ratfolk shared information, leshys shared food and shelter, automatons shared repairs, and awakened animals shared discoveries. Every faction enters a team, built so that crafters, scouts, traders, performers, and problem-solvers can all contribute.\n\nThis overlaps with the Concord and the Great Burden; the drafts were alternatives.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (annual events brainstorm, 2026-09-25)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "2041ee74e6ba",
+    "when": "once a year"
+  },
+  {
+    "id": "03242b78ed",
+    "title": "The King's Turnip",
+    "type": "Quest",
+    "status": "rumored",
+    "tags": [
+      "nature",
+      "mystery",
+      "festival",
+      "underground"
+    ],
+    "body": "PROPOSED, not yet canon, and not in the setting bible. Every year the settlements compete for the title of Finest Crop in the Underhallow. The entry from [[The Quiet Ring]], a gigantic bioluminescent root vegetable called The King, walks off on its own. Roots still connect it to the earth, and tracks show it slowly dragged itself into a forgotten section of tunnels beneath [[The Crossings]]. Root leshys accidentally awakened it with experimental magic, and now it thinks it is escaping execution. The search is absurd and escalating, nobody is trying to kill anyone, and the festival is falling apart around the mystery. Players can solve it through roleplay, tracking, or encounters with tunnel wildlife.",
+    "created": "2026-10-06",
+    "canon": "PROPOSED",
+    "source": "Proposed in our chats; not in the setting bible (introductory quest brainstorm, 2026-09-25)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "bef885342950"
+  },
+  {
+    "id": "a7b3326c98",
+    "title": "Corebound equipment (public face)",
+    "type": "Note",
+    "status": "",
+    "tags": [
+      "craft",
+      "magic"
+    ],
+    "body": "Corebound equipment is the public, in-world name for the technology Liza Herkroft recovered, and the word \"Immortal\" is not associated with it by the public, the court, the military, or the Underhallow factions. Avoid calling it \"Immortal tech\" in public-facing notes, dialogue, or art prompts. Its material identity is LOCKED CANON: dark iron or steel framework and plates with a smooth matte warm-white, porcelain-like painted or enameled finish (warm, not sterile blue-white), a deep sapphire or electric-blue glow from internal cores, veins, seams, or nodes, and plates that dent, bend, or shear like metal rather than shattering like pottery. It should read as fantasy-first, ancient and advanced at once, slightly wrong in proportion, clean and minimal, and never steampunk, circuitry, brass, or pipes.\n\nDistribution: the military is the primary user of Corebound weapons and equipment, the City Guard uses light civic Corebound-style armor but ordinary non-Corebound weapons (spear, short sword, wooden round shield, light crossbow), and the public sees automatons and poppets as useful constructs or toys. Automaton faces are smooth warm-white enamel-coated metal with only two simple glowing blue eyes, and no nose, mouth, lips, cheek lines, or expression.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Corebound Equipment; The Surface: Hallowmead (Automatons on the Surface)",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "af7e1d4e3f81"
+  },
+  {
+    "id": "a1bef87a0e",
+    "title": "The Immortals (GM only)",
+    "type": "Note",
+    "status": "",
+    "tags": [
+      "gm-only",
+      "magic",
+      "mystery"
+    ],
+    "body": "GM ONLY. The Immortals come from a coalition in a different reality, which in its far future developed a technology with broad uses that, applied with specific techniques, can create nigh-immortal beings. The coalition shared it among its members to find other planes, times, and realities to pilfer resources. Only weapons made from Immortal-derived technology can cause permanent damage to an Immortal. All other damage, including unconsciousness, dismemberment, and beheading, triggers regeneration over hours to days while the Immortal is comatose, and on waking it is as if they were never injured. An Immortal rendered unconscious by conventional means can be sealed, bound, or trapped indefinitely, but not killed.\n\nThe consequence: Liza Herkroft's Corebound weapons, used mainly by Hallowmead's military, are the only things in this world that can permanently kill an Immortal, and neither Liza nor the military knows it. Ulzerett understands enough to see the military as a direct existential threat. Known Immortals are [[Ulzerett]] and [[Orion Palend]], who are not aware of each other.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Core Lore: The Immortals",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "0ad6665589b7"
+  },
+  {
+    "id": "b6e46c1317",
+    "title": "Campaign structure and threats (GM only)",
+    "type": "Note",
+    "status": "",
+    "tags": [
+      "gm-only",
+      "politics",
+      "mystery"
+    ],
+    "body": "GM ONLY. Phase 1, Small-Time Troublemakers: the player characters start in the Underhallow, each belonging to a faction, on silly quests and low-stakes sabotage missions. There is no penalty for being overt; they are supposed to be noticed. The tone is light and fun, and they unknowingly escalate surface tensions exactly as Ulzerett intends. Phase 2, The Hammer Falls: their success provokes Hallowmead into sending a large raiding force, likely led by Orion Palend, the tone shifts hard, and Ulzerett uses shapeshifting to appear to each faction and convince them to unite. Phase 3, The Revolution: a united front pushes back and takes the fight to the surface, and Ulzerett gets what he actually wants, which is the military dismantled or scattered, Liza's technology disrupted or captured, and himself installed as the invisible power behind the new order.\n\nThree threats work through deception and no faction is fully aware of any of them. From above, Hallowmead raids, erases culture, and extracts resources from Crown's Post, armed with weapons that can kill Immortals without knowing it. From within, Ulzerett uses shapeshifting disguises and the downtrodden as shield and tool. From below, the Descent sends doppelganger sleeper agents who do not know what they are, and creatures crawl up through Karak's Everhold under the direction of an unknown intelligence.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Setting Bible: Campaign Structure; Three-Layer Threat Structure",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "a38b002421fa"
+  },
+  {
+    "id": "4d66064f2b",
+    "title": "Open questions (TBD)",
+    "type": "Note",
+    "status": "",
+    "tags": [
+      "mystery"
+    ],
+    "body": "These are unresolved in the bible, and nothing here is invented to answer them. Core narrative: Ulzerett's motivation beyond wanting to rule, Orion's specific mission and how the two purposes intertwine, the identity and current status of the Seer who told Orion he was cursed with life, the source of the Underhallow's magic-saturated zones, details on the other sealed Immortals, and the original purpose of the druidic circle that created the leshys. The Descent: the controlling intelligence (an aboleth, a sealed Immortal connection, or something older), how many doppelganger sleeper agents are embedded, and what triggers their activation. Karak's Everhold: the dwarven clan's current location and status. Campaign: post-revolution direction and faction-specific Phase 1 quest ideas. Art: the Firstlight awakened-animal leader.\n\nThe bible's editorial checks flag two more: whether the Glimmer connects to the Mending, and the Firstlight leader.",
+    "created": "2026-10-06",
+    "canon": "TBD",
+    "source": "Setting Bible: Open Questions / TBD; Editorial Consistency Checks",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "7d3f6cc92341"
+  },
+  {
+    "id": "44b5766eec",
+    "title": "Hallowmead setting import notes",
+    "type": "Note",
+    "status": "",
+    "tags": [
+      "underground"
+    ],
+    "body": "These pages were written from the master setting bible, and each names the section it came from. Pages marked PROPOSED came from our chats and are not in the bible: the five annual events (they overlap, because the drafts were alternatives) and the King's Turnip quest. A few art-direction details from our chats are marked as such on the leader pages.\n\nInformation boundary: pages tagged gm-only (Ulzerett, The Immortals, Campaign structure and threats) are never used by Story Forge. The Royal Court pages carry secrets in their text, but generated stories only ever use a page's name and title, and each secret page lists the themes it must never meet (Malcior never meets undead events).\n\nOne conflict for you to resolve: the bible's July 2026 edition lists seven separate disguised advisers for Ulzerett, but a later decision made it a single dwarven field historian persona. The Ulzerett page follows the later decision.\n\nLeft out on purpose: the visual-art rules, the prompt library, and the playable-ancestry restrictions (automatons Small only, poppets and awakened animals with approval, uplifted mimics, slimes, and doppelgangers with approval), which belong in your bible rather than a Notebook page.",
+    "created": "2026-10-06",
+    "canon": "ESTABLISHED",
+    "source": "Import summary",
+    "seed": "hallowmead",
+    "rev": 2,
+    "seed_hash": "71acc569c764"
+  }
+]

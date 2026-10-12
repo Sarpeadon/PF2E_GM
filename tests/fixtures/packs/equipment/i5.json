@@ -1,0 +1,1 @@
+{"name": "Item 5", "type": "consumable", "system": {"level": {"value": 4}, "price": {"value": {"gp": 160}}, "traits": {"rarity": "common", "value": ["magical"]}, "publication": {"title": "Test Core"}}}

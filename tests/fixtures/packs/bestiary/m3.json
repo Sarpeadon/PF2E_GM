@@ -1,0 +1,1 @@
+{"name": "Monster 3", "type": "npc", "system": {"details": {"level": {"value": 6}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["undead", "dwarf"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 110}, "ac": {"value": 21}}}}

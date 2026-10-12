@@ -1,0 +1,1 @@
+{"name": "Monster 31", "type": "npc", "system": {"details": {"level": {"value": 5}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["dwarf", "fungus", "skeleton"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 95}, "ac": {"value": 20}}}}

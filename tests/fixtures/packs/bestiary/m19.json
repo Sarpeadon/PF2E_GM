@@ -1,0 +1,1 @@
+{"name": "Monster 19", "type": "npc", "system": {"details": {"level": {"value": 7}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "common", "value": ["fungus", "undead", "goblin"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 125}, "ac": {"value": 22}}}}

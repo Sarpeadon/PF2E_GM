@@ -1,0 +1,1 @@
+{"name": "Monster 56", "type": "npc", "system": {"details": {"level": {"value": 7}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "uncommon", "value": ["undead", "beast", "skeleton"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 125}, "ac": {"value": 22}}}}

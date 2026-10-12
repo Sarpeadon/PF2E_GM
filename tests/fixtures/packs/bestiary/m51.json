@@ -1,0 +1,1 @@
+{"name": "Monster 51", "type": "npc", "system": {"details": {"level": {"value": 8}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "common", "value": ["fungus", "dwarf", "ghoul"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 140}, "ac": {"value": 23}}}}

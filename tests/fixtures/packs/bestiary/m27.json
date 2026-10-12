@@ -1,0 +1,1 @@
+{"name": "Monster 27", "type": "npc", "system": {"details": {"level": {"value": 3}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "common", "value": ["construct", "undead", "ghoul"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 65}, "ac": {"value": 18}}}}

@@ -1,0 +1,1 @@
+{"name": "Monster 0", "type": "npc", "system": {"details": {"level": {"value": 1}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["construct", "undead", "ghoul"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 35}, "ac": {"value": 16}}}}

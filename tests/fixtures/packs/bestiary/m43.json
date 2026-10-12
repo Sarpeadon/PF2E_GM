@@ -1,0 +1,1 @@
+{"name": "Monster 43", "type": "npc", "system": {"details": {"level": {"value": -1}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["fungus", "dwarf", "skeleton"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 5}, "ac": {"value": 14}}}}

@@ -1,0 +1,1 @@
+{"name": "Monster 13", "type": "npc", "system": {"details": {"level": {"value": 9}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "uncommon", "value": ["fungus", "undead", "skeleton"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 155}, "ac": {"value": 24}}}}

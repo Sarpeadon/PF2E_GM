@@ -1,0 +1,1 @@
+{"name": "Monster 32", "type": "npc", "system": {"details": {"level": {"value": 4}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["undead", "fungus"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 80}, "ac": {"value": 19}}}}

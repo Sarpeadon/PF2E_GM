@@ -1,0 +1,1 @@
+{"name": "Monster 50", "type": "npc", "system": {"details": {"level": {"value": 7}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "uncommon", "value": ["undead", "dwarf", "kobold"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 125}, "ac": {"value": 22}}}}

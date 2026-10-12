@@ -1,0 +1,1 @@
+{"name": "Monster 2", "type": "npc", "system": {"details": {"level": {"value": 9}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["dwarf", "beast"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 155}, "ac": {"value": 24}}}}

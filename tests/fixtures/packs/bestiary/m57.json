@@ -1,0 +1,1 @@
+{"name": "Monster 57", "type": "npc", "system": {"details": {"level": {"value": 6}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["beast", "undead", "ghoul"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 110}, "ac": {"value": 21}}}}

@@ -1,0 +1,1 @@
+{"name": "Monster 8", "type": "npc", "system": {"details": {"level": {"value": 2}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "uncommon", "value": ["dwarf", "undead", "goblin"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 50}, "ac": {"value": 17}}}}

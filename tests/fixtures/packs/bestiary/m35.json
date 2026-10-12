@@ -1,0 +1,1 @@
+{"name": "Monster 35", "type": "npc", "system": {"details": {"level": {"value": 7}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "uncommon", "value": ["fungus", "undead", "skeleton"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 125}, "ac": {"value": 22}}}}

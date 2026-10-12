@@ -1,0 +1,1 @@
+{"name": "Monster 18", "type": "npc", "system": {"details": {"level": {"value": 5}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "common", "value": ["dwarf", "beast", "goblin"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 95}, "ac": {"value": 20}}}}

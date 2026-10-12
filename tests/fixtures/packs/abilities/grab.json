@@ -1,0 +1,1 @@
+{"_id": "abGrab", "name": "Grab", "type": "action", "system": {"actionType": {"value": "action"}, "actions": {"value": 1}, "traits": {"value": []}, "description": {"value": "<p>The target becomes grabbed.</p>"}}}

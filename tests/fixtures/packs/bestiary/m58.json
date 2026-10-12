@@ -1,0 +1,1 @@
+{"name": "Monster 58", "type": "npc", "system": {"details": {"level": {"value": 2}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["fungus", "undead", "kobold"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 50}, "ac": {"value": 17}}}}

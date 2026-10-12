@@ -1,0 +1,1 @@
+{"name": "Monster 15", "type": "npc", "system": {"details": {"level": {"value": 9}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "common", "value": ["beast", "fungus"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 155}, "ac": {"value": 24}}}}

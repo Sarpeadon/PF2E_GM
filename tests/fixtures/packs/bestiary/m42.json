@@ -1,0 +1,1 @@
+{"name": "Monster 42", "type": "npc", "system": {"details": {"level": {"value": 4}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["dwarf", "construct"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 80}, "ac": {"value": 19}}}}

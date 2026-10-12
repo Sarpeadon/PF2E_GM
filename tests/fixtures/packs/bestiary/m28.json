@@ -1,0 +1,1 @@
+{"name": "Monster 28", "type": "npc", "system": {"details": {"level": {"value": 10}, "publication": {"title": "Goblin Warrens Module"}}, "traits": {"rarity": "uncommon", "value": ["construct", "beast", "ghoul"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 170}, "ac": {"value": 25}}}}

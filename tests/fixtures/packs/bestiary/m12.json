@@ -1,0 +1,1 @@
+{"name": "Monster 12", "type": "npc", "system": {"details": {"level": {"value": 5}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["construct", "undead"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 95}, "ac": {"value": 20}}}}

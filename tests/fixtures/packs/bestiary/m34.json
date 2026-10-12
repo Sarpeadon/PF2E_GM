@@ -1,0 +1,1 @@
+{"name": "Monster 34", "type": "npc", "system": {"details": {"level": {"value": 1}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "common", "value": ["construct", "beast"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 35}, "ac": {"value": 16}}}}

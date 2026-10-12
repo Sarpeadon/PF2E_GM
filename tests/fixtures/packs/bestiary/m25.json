@@ -1,0 +1,1 @@
+{"name": "Monster 25", "type": "npc", "system": {"details": {"level": {"value": 2}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["construct", "beast", "kobold"], "size": {"value": "lg"}}, "attributes": {"hp": {"max": 50}, "ac": {"value": 17}}}}

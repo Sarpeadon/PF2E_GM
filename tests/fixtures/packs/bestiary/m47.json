@@ -1,0 +1,1 @@
+{"name": "Monster 47", "type": "npc", "system": {"details": {"level": {"value": 5}, "publication": {"title": "Crypts of the Underhallow AP"}}, "traits": {"rarity": "uncommon", "value": ["beast", "undead", "skeleton"], "size": {"value": "med"}}, "attributes": {"hp": {"max": 95}, "ac": {"value": 20}}}}

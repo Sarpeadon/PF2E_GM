@@ -1,0 +1,1 @@
+{"name": "Monster 4", "type": "npc", "system": {"details": {"level": {"value": 8}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["undead", "dwarf", "kobold"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 140}, "ac": {"value": 23}}}}

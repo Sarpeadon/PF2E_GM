@@ -1,0 +1,1 @@
+{"name": "Monster 11", "type": "npc", "system": {"details": {"level": {"value": 2}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["dwarf", "fungus", "goblin"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 50}, "ac": {"value": 17}}}}

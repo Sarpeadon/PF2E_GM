@@ -1,0 +1,1 @@
+{"_id": "spFear01", "name": "Fear", "type": "spell", "system": {"level": {"value": 1}, "traits": {"value": ["emotion", "fear", "mental"]}, "time": {"value": "2"}, "range": {"value": "30 feet"}, "defense": {"save": {"statistic": "will"}}, "description": {"value": "<p>The target becomes frightened 1.</p><hr /><p><strong>Heightened (3rd)</strong> Up to five creatures.</p>"}}}

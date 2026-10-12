@@ -1,0 +1,1 @@
+{"name": "Monster 53", "type": "npc", "system": {"details": {"level": {"value": -1}, "publication": {"title": "Test Bestiary"}}, "traits": {"rarity": "common", "value": ["fungus", "undead", "kobold"], "size": {"value": "sm"}}, "attributes": {"hp": {"max": 5}, "ac": {"value": 14}}}}

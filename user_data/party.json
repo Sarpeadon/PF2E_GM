@@ -1,0 +1,910 @@
+[
+  {
+    "name": "Grul'k",
+    "level": 10,
+    "class": "Alchemist",
+    "ancestry": "Fleshwarp",
+    "heritage": "Created Fleshwarp",
+    "background": "Eldritch Anatomist",
+    "alignment": "N",
+    "size": "med",
+    "item_mods": {
+      "Fortitude": [
+        [
+          "Item Bonus",
+          1
+        ]
+      ],
+      "Reflex": [
+        [
+          "Item Bonus",
+          1
+        ]
+      ],
+      "Will": [
+        [
+          "Item Bonus",
+          1
+        ]
+      ]
+    },
+    "perception": 14,
+    "saves": {
+      "fortitude": 19,
+      "reflex": 18,
+      "will": 15
+    },
+    "skills": {
+      "Acrobatics": 3,
+      "Arcana": 17,
+      "Athletics": 3,
+      "Crafting": 17,
+      "Deception": 12,
+      "Diplomacy": 12,
+      "Intimidation": 12,
+      "Medicine": 16,
+      "Nature": 12,
+      "Occultism": 21,
+      "Performance": 0,
+      "Religion": 0,
+      "Society": 17,
+      "Stealth": 3,
+      "Survival": 12,
+      "Thievery": 3,
+      "Lore (Fleshwarp)": 17
+    },
+    "mods": {
+      "str": 3,
+      "dex": 3,
+      "con": 4,
+      "int": 5,
+      "wis": 0,
+      "cha": 0
+    },
+    "class_dc": 29,
+    "hp": 140,
+    "speed": 25,
+    "ac": 26,
+    "strikes": [
+      {
+        "name": "Alchemical Bomb",
+        "weapon": "Alchemical Bomb",
+        "bonus": "+17",
+        "damage": [],
+        "traits": [],
+        "effects": [],
+        "kind": "Melee",
+        "dtype": "",
+        "note": "Damage depends on the bomb used (see Formulas)",
+        "runes": [],
+        "pot": 0,
+        "mat": "",
+        "prof": "martial"
+      },
+      {
+        "name": "Thundermace (+3, striking, hooked)",
+        "weapon": "Thundermace",
+        "bonus": "+20",
+        "damage": [
+          "2d8+3 bludgeoning"
+        ],
+        "traits": [],
+        "effects": [],
+        "kind": "Melee",
+        "dtype": "bludgeoning",
+        "note": "",
+        "runes": [
+          "Hooked"
+        ],
+        "pot": 3,
+        "mat": "",
+        "prof": "simple"
+      },
+      {
+        "name": "Fist",
+        "weapon": "Fist",
+        "bonus": "+17",
+        "damage": [
+          "1d4+3 bludgeoning"
+        ],
+        "traits": [
+          "agile",
+          "finesse",
+          "nonlethal",
+          "unarmed"
+        ],
+        "effects": [],
+        "kind": "Melee",
+        "dtype": "bludgeoning",
+        "note": "",
+        "runes": [],
+        "pot": 0,
+        "mat": "",
+        "prof": "unarmed",
+        "unarmed": true
+      }
+    ],
+    "damage_types": [
+      "bludgeoning"
+    ],
+    "feats": [
+      {
+        "name": "Alchemical Crafting",
+        "choice": "",
+        "type": "Awarded Feat",
+        "level": 1,
+        "source": ""
+      },
+      {
+        "name": "Assurance",
+        "choice": "Medicine",
+        "type": "Awarded Feat",
+        "level": 1,
+        "source": ""
+      },
+      {
+        "name": "Created Fleshwarp",
+        "choice": "",
+        "type": "Heritage",
+        "level": 1,
+        "source": "Heritage Feat"
+      },
+      {
+        "name": "Alchemical Assessment",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 1,
+        "source": "Alchemist Feat 1"
+      },
+      {
+        "name": "Deepvision",
+        "choice": "",
+        "type": "Ancestry Feat",
+        "level": 1,
+        "source": "Fleshwarp Feat 1"
+      },
+      {
+        "name": "Battle Medicine",
+        "choice": "",
+        "type": "Skill Feat",
+        "level": 2,
+        "source": "Skill Feat 2"
+      },
+      {
+        "name": "Improvise Admixture",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 2,
+        "source": "Alchemist Feat 2"
+      },
+      {
+        "name": "Sanguimancer Dedication",
+        "choice": "",
+        "type": "Archetype Feat",
+        "level": 2,
+        "source": "Free Archetype 2"
+      },
+      {
+        "name": "Toughness",
+        "choice": "",
+        "type": "General Feat",
+        "level": 3,
+        "source": "General Feat 3"
+      },
+      {
+        "name": "Godless Healing",
+        "choice": "",
+        "type": "Skill Feat",
+        "level": 4,
+        "source": "Skill Feat 4"
+      },
+      {
+        "name": "Efficient Alchemy",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 4,
+        "source": "Alchemist Feat 4"
+      },
+      {
+        "name": "Blood Shield",
+        "choice": "",
+        "type": "Archetype Feat",
+        "level": 4,
+        "source": "Free Archetype 4"
+      },
+      {
+        "name": "Gaping Flesh",
+        "choice": "",
+        "type": "Ancestry Feat",
+        "level": 5,
+        "source": "Fleshwarp Feat 5"
+      },
+      {
+        "name": "Ward Medic",
+        "choice": "",
+        "type": "Skill Feat",
+        "level": 6,
+        "source": "Skill Feat 6"
+      },
+      {
+        "name": "Fortified Elixirs",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 6,
+        "source": "Alchemist Feat 6"
+      },
+      {
+        "name": "Exsanguinate",
+        "choice": "",
+        "type": "Archetype Feat",
+        "level": 6,
+        "source": "Free Archetype 6"
+      },
+      {
+        "name": "Robust Health",
+        "choice": "",
+        "type": "General Feat",
+        "level": 7,
+        "source": "General Feat 7"
+      },
+      {
+        "name": "Graft Technician",
+        "choice": "",
+        "type": "Skill Feat",
+        "level": 8,
+        "source": "Skill Feat 8"
+      },
+      {
+        "name": "Mutant Physique",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 8,
+        "source": "Alchemist Feat 8"
+      },
+      {
+        "name": "Transfusion",
+        "choice": "",
+        "type": "Archetype Feat",
+        "level": 8,
+        "source": "Free Archetype 8"
+      },
+      {
+        "name": "Embodied Dragoon Subjectivity",
+        "choice": "",
+        "type": "Ancestry Feat",
+        "level": 9,
+        "source": "Fleshwarp Feat 9"
+      },
+      {
+        "name": "Continual Recovery",
+        "choice": "",
+        "type": "Skill Feat",
+        "level": 10,
+        "source": "Skill Feat 10"
+      },
+      {
+        "name": "Unstable Concoction",
+        "choice": "",
+        "type": "Class Feat",
+        "level": 10,
+        "source": "Alchemist Feat 10"
+      },
+      {
+        "name": "Venipuncture",
+        "choice": "",
+        "type": "Archetype Feat",
+        "level": 10,
+        "source": "Free Archetype 10"
+      }
+    ],
+    "specials": [
+      "Alchemy",
+      "Formula Book",
+      "Advanced Alchemy",
+      "Versatile Vials",
+      "Quick Alchemy",
+      "Mutagenist",
+      "Formulas (Mutagenist)",
+      "Field Benefit (Mutagenist)",
+      "Field Vials (Mutagenist)",
+      "Unusual Anatomy",
+      "Field Discovery (Mutagenist)",
+      "Powerful Alchemy",
+      "Alchemical Weapon Expertise",
+      "Will Expertise",
+      "Alchemical Expertise",
+      "Double Brew",
+      "Perception Expertise"
+    ],
+    "senses": [
+      "Low-Light Vision",
+      "Darkvision"
+    ],
+    "equipment": [
+      {
+        "name": "Magnifying Glass",
+        "qty": 1,
+        "invested": true,
+        "container": ""
+      }
+    ],
+    "armor": [
+      {
+        "name": "Laboratory Coat (+1, resilient, slick)",
+        "base": "Laboratory Coat",
+        "qty": 1,
+        "prof": "unarmored",
+        "pot": 1,
+        "res": "resilient",
+        "worn": true,
+        "runes": [
+          "Slick"
+        ]
+      }
+    ],
+    "money": {
+      "pp": 0,
+      "gp": 15,
+      "sp": 0,
+      "cp": 0
+    },
+    "spells": [
+      {
+        "head": "Embodied Dragoon Subjectivity (Occult Innate Spells) DC 22, attack +12",
+        "ranks": [
+          [
+            "Rank 2",
+            [
+              [
+                "Marvelous Mount",
+                "spell:Marvelous Mount",
+                " (1/day)"
+              ]
+            ]
+          ]
+        ]
+      }
+    ],
+    "slots": [
+      {
+        "entry": "Embodied Dragoon Subjectivity (Occult Innate Spells)",
+        "kind": "innate",
+        "innate": true,
+        "per_day": {
+          "2": 1
+        },
+        "prepared": {},
+        "known": {
+          "2": [
+            "Marvelous Mount"
+          ]
+        }
+      }
+    ],
+    "formulas": [
+      {
+        "type": "Alchemist",
+        "known": [
+          "Blood Bomb (Lesser)",
+          "Blood Sight Elixir (Greater)",
+          "Elixir of Life (Minor)",
+          "Elixir of Life (Moderate)",
+          "Versatile Vial (Moderate)",
+          "Blood Bomb (Moderate)",
+          "Bitterblood Elixir"
+        ]
+      }
+    ],
+    "pb_version": 2,
+    "raw": {
+      "name": "Grul'k",
+      "class": "Alchemist",
+      "dualClass": null,
+      "level": 10,
+      "xp": 0,
+      "ancestry": "Fleshwarp",
+      "heritage": "Created Fleshwarp",
+      "background": "Eldritch Anatomist",
+      "alignment": "N",
+      "gender": "Not set",
+      "age": "Not set",
+      "deity": "Not set",
+      "size": 2,
+      "sizeName": "Medium",
+      "keyability": "int",
+      "languages": [
+        "None selected"
+      ],
+      "rituals": [],
+      "resistances": [],
+      "inventorMods": [],
+      "abilities": {
+        "str": 16,
+        "dex": 16,
+        "con": 19,
+        "int": 20,
+        "wis": 10,
+        "cha": 10,
+        "breakdown": {
+          "ancestryFree": [
+            "Int"
+          ],
+          "ancestryBoosts": [
+            "Con"
+          ],
+          "ancestryFlaws": [],
+          "backgroundBoosts": [
+            "Int",
+            "Con"
+          ],
+          "classBoosts": [
+            "Int"
+          ],
+          "mapLevelledBoosts": {
+            "1": [
+              "Con",
+              "Int",
+              "Dex",
+              "Str"
+            ],
+            "5": [
+              "Con",
+              "Int",
+              "Str",
+              "Dex"
+            ],
+            "10": [
+              "Str",
+              "Dex",
+              "Con",
+              "Int"
+            ]
+          }
+        }
+      },
+      "attributes": {
+        "ancestryhp": 10,
+        "classhp": 8,
+        "bonushp": 0,
+        "bonushpPerLevel": 1,
+        "speed": 25,
+        "speedBonus": 0
+      },
+      "proficiencies": {
+        "classDC": 4,
+        "perception": 4,
+        "fortitude": 4,
+        "reflex": 4,
+        "will": 4,
+        "heavy": 0,
+        "medium": 2,
+        "light": 2,
+        "unarmored": 2,
+        "advanced": 0,
+        "martial": 0,
+        "simple": 4,
+        "unarmed": 4,
+        "castingArcane": 0,
+        "castingDivine": 0,
+        "castingOccult": 2,
+        "castingPrimal": 0,
+        "acrobatics": 0,
+        "arcana": 2,
+        "athletics": 0,
+        "crafting": 2,
+        "deception": 2,
+        "diplomacy": 2,
+        "intimidation": 2,
+        "medicine": 6,
+        "nature": 2,
+        "occultism": 6,
+        "performance": 0,
+        "religion": 0,
+        "society": 2,
+        "stealth": 0,
+        "survival": 2,
+        "thievery": 0,
+        "piloting": 0,
+        "computers": 0
+      },
+      "mods": {
+        "Fortitude": {
+          "Item Bonus": 1
+        },
+        "Reflex": {
+          "Item Bonus": 1
+        },
+        "Will": {
+          "Item Bonus": 1
+        }
+      },
+      "feats": [
+        [
+          "Alchemical Crafting",
+          null,
+          "Awarded Feat",
+          1
+        ],
+        [
+          "Assurance",
+          "Medicine",
+          "Awarded Feat",
+          1
+        ],
+        [
+          "Created Fleshwarp",
+          null,
+          "Heritage",
+          1,
+          "Heritage Feat",
+          "standardChoice",
+          null
+        ],
+        [
+          "Alchemical Assessment",
+          null,
+          "Class Feat",
+          1,
+          "Alchemist Feat 1",
+          "standardChoice",
+          null
+        ],
+        [
+          "Deepvision",
+          null,
+          "Ancestry Feat",
+          1,
+          "Fleshwarp Feat 1",
+          "standardChoice",
+          null
+        ],
+        [
+          "Battle Medicine",
+          null,
+          "Skill Feat",
+          2,
+          "Skill Feat 2",
+          "standardChoice",
+          null
+        ],
+        [
+          "Improvise Admixture",
+          null,
+          "Class Feat",
+          2,
+          "Alchemist Feat 2",
+          "standardChoice",
+          null
+        ],
+        [
+          "Sanguimancer Dedication",
+          null,
+          "Archetype Feat",
+          2,
+          "Free Archetype 2",
+          "standardChoice",
+          null
+        ],
+        [
+          "Toughness",
+          null,
+          "General Feat",
+          3,
+          "General Feat 3",
+          "standardChoice",
+          null
+        ],
+        [
+          "Godless Healing",
+          null,
+          "Skill Feat",
+          4,
+          "Skill Feat 4",
+          "standardChoice",
+          null
+        ],
+        [
+          "Efficient Alchemy",
+          null,
+          "Class Feat",
+          4,
+          "Alchemist Feat 4",
+          "standardChoice",
+          null
+        ],
+        [
+          "Blood Shield",
+          null,
+          "Archetype Feat",
+          4,
+          "Free Archetype 4",
+          "standardChoice",
+          null
+        ],
+        [
+          "Gaping Flesh",
+          null,
+          "Ancestry Feat",
+          5,
+          "Fleshwarp Feat 5",
+          "standardChoice",
+          null
+        ],
+        [
+          "Ward Medic",
+          null,
+          "Skill Feat",
+          6,
+          "Skill Feat 6",
+          "standardChoice",
+          null
+        ],
+        [
+          "Fortified Elixirs",
+          null,
+          "Class Feat",
+          6,
+          "Alchemist Feat 6",
+          "standardChoice",
+          null
+        ],
+        [
+          "Exsanguinate",
+          null,
+          "Archetype Feat",
+          6,
+          "Free Archetype 6",
+          "standardChoice",
+          null
+        ],
+        [
+          "Robust Health",
+          null,
+          "General Feat",
+          7,
+          "General Feat 7",
+          "standardChoice",
+          null
+        ],
+        [
+          "Graft Technician",
+          null,
+          "Skill Feat",
+          8,
+          "Skill Feat 8",
+          "standardChoice",
+          null
+        ],
+        [
+          "Mutant Physique",
+          null,
+          "Class Feat",
+          8,
+          "Alchemist Feat 8",
+          "standardChoice",
+          null
+        ],
+        [
+          "Transfusion",
+          null,
+          "Archetype Feat",
+          8,
+          "Free Archetype 8",
+          "standardChoice",
+          null
+        ],
+        [
+          "Embodied Dragoon Subjectivity",
+          null,
+          "Ancestry Feat",
+          9,
+          "Fleshwarp Feat 9",
+          "standardChoice",
+          null
+        ],
+        [
+          "Continual Recovery",
+          null,
+          "Skill Feat",
+          10,
+          "Skill Feat 10",
+          "standardChoice",
+          null
+        ],
+        [
+          "Unstable Concoction",
+          null,
+          "Class Feat",
+          10,
+          "Alchemist Feat 10",
+          "standardChoice",
+          null
+        ],
+        [
+          "Venipuncture",
+          null,
+          "Archetype Feat",
+          10,
+          "Free Archetype 10",
+          "standardChoice",
+          null
+        ]
+      ],
+      "specials": [
+        "Alchemy",
+        "Formula Book",
+        "Advanced Alchemy",
+        "Versatile Vials",
+        "Quick Alchemy",
+        "Mutagenist",
+        "Formulas (Mutagenist)",
+        "Field Benefit (Mutagenist)",
+        "Field Vials (Mutagenist)",
+        "Low-Light Vision",
+        "Unusual Anatomy",
+        "Medium",
+        "Darkvision",
+        "Field Discovery (Mutagenist)",
+        "Powerful Alchemy",
+        "Alchemical Weapon Expertise",
+        "Will Expertise",
+        "Alchemical Expertise",
+        "Double Brew",
+        "Perception Expertise",
+        "Created Fleshwarp"
+      ],
+      "lores": [
+        [
+          "Fleshwarp",
+          2
+        ]
+      ],
+      "equipmentContainers": {},
+      "equipment": [
+        [
+          "Magnifying Glass",
+          1,
+          "Invested"
+        ]
+      ],
+      "specificProficiencies": {
+        "trained": [],
+        "expert": [
+          "Alchemical Bomb"
+        ],
+        "master": [],
+        "legendary": []
+      },
+      "weapons": [
+        {
+          "name": "Alchemical Bomb",
+          "qty": 1,
+          "prof": "martial",
+          "die": "d0",
+          "pot": 0,
+          "str": "",
+          "mat": null,
+          "display": "Alchemical Bomb",
+          "runes": [],
+          "damageType": "Varies",
+          "attack": 17,
+          "damageBonus": 0,
+          "extraDamage": [],
+          "increasedDice": false,
+          "isInventor": false,
+          "grade": ""
+        },
+        {
+          "name": "Thundermace",
+          "qty": 1,
+          "prof": "simple",
+          "die": "d8",
+          "pot": 3,
+          "str": "striking",
+          "mat": null,
+          "display": "+3 Striking Hooked Thundermace",
+          "runes": [
+            "Hooked"
+          ],
+          "damageType": "B",
+          "attack": 20,
+          "damageBonus": 3,
+          "extraDamage": [],
+          "increasedDice": false,
+          "isInventor": false,
+          "grade": ""
+        }
+      ],
+      "money": {
+        "cp": 0,
+        "sp": 0,
+        "gp": 15,
+        "pp": 0
+      },
+      "armor": [
+        {
+          "name": "Laboratory Coat",
+          "qty": 1,
+          "prof": "unarmored",
+          "pot": 1,
+          "res": "resilient",
+          "mat": null,
+          "display": "Laboratory Coat",
+          "worn": true,
+          "runes": [
+            "Slick"
+          ],
+          "grade": ""
+        }
+      ],
+      "spellCasters": [
+        {
+          "name": "Embodied Dragoon Subjectivity",
+          "magicTradition": "occult",
+          "spellcastingType": "prepared",
+          "ability": "cha",
+          "proficiency": 2,
+          "focusPoints": 0,
+          "innate": true,
+          "perDay": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "spells": [
+            {
+              "spellLevel": 0,
+              "list": []
+            },
+            {
+              "spellLevel": 1,
+              "list": []
+            },
+            {
+              "spellLevel": 2,
+              "list": [
+                "Marvelous Mount"
+              ]
+            }
+          ],
+          "prepared": [],
+          "blendedSpells": []
+        }
+      ],
+      "focusPoints": 0,
+      "focus": {},
+      "formula": [
+        {
+          "type": "Alchemist",
+          "known": [
+            "Blood Bomb (Lesser)",
+            "Blood Sight Elixir (Greater)",
+            "Elixir of Life (Minor)",
+            "Elixir of Life (Moderate)",
+            "Versatile Vial (Moderate)",
+            "Blood Bomb (Moderate)",
+            "Bitterblood Elixir"
+          ]
+        }
+      ],
+      "acTotal": {
+        "acProfBonus": 12,
+        "acAbilityBonus": 3,
+        "acItemBonus": 1,
+        "acTotal": 26,
+        "shieldBonus": null
+      },
+      "pets": [],
+      "familiars": []
+    },
+    "pathbuilder_id": "476753"
+  }
+]
